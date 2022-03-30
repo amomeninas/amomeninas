@@ -1,9 +1,7 @@
 ### Olá, meu nome é Gabriel Dirksen! 👋
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RZ7H277UyJ)
-
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/W1nsecurity)
-
 [![MindBuscasWebSite](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://mindbuscas.xyz)
 
 ![winndev GitHub stats](https://github-readme-stats.vercel.app/api?username=winndev&show_icons=true&theme=radical)
@@ -18,4 +16,3 @@
 
 - 🌱 Trabalhando atualmente em: Stumble Guys Exploit's
 - 📫 Como me alcançar: Apenas seja esperto, lembre-se sempre, o mundo é dos espertos!
--->
