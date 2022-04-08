@@ -1,18 +1,25 @@
-### Olá, meu nome é Gabriel Dirksen! 👋
+<h1 align="center">Hello there  👋</h1>
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RZ7H277UyJ)
+## Hi! Welcome to my GitHub, my name is Gabriel, winndev or youngwinn.
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/securitypanel)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/W1nsecurity)
-[![MindBuscasWebSite](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://mindbuscas.xyz)
 
-![winndev GitHub stats](https://github-readme-stats.vercel.app/api?username=winndev&show_icons=true&theme=radical)
+- I’m currently working in my Discord Script & Stumble Guys Exploit's.
 
-### Conhecimentos
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
-<div style="display: inline_block">
-  <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
+## Languages
 
-- 🌱 Trabalhando atualmente em: Stumble Guys Exploit's
-- 📫 Como me alcançar: Apenas seja esperto, lembre-se sempre, o mundo é dos espertos!
+[![Java](https://img.shields.io/badge/Java-FF002B?style=for-the-badge&logo=Java)](https://oracle.com/java)
+[![JavaScript](https://img.shields.io/badge/JavaScript-DF013A?style=for-the-badge&logo=javascript&logoColor=fff)](https://www.javascript.com/)
+[![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+<br />
+<br />
+
+<a href="https://github.com/winndev">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=winndev&theme=radical" />
+</a>
+<a href="https://github.com/winndev">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=winndev&show_icons=true&theme=radical&line_height=27" alt="winndev" />
+</a>
