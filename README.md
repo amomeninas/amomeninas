@@ -16,9 +16,7 @@
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 <br />
 <br />
-
-## Credits to README.MD by iMaxPowery
-
+<br />
 <a href="https://github.com/winndev">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=winndev&theme=radical" />
 </a>
