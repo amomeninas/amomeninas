@@ -10,11 +10,9 @@ be kind and everyone will be kind to you.
 
 ## Statistics
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=int3rnetbxby.int3rnetbxby&left_color=red&right_color=purple) 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=int3rnetbxby&left_color=red&right_color=purple) 
 
-![Stats](https://github-readme-stats.vercel.app/api/?username=int3rnetbxby&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&custom_title=int3rnetbxby's%20Statistics)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=int3rnetbxby&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10&hide=css&custom_title=int3rnetbxby's%20Most%20Used%20Languages)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=int3rnetbxby&hide_progress=true&border_color=000&bg_color=fff)
 
 ## My socials
 
