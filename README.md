@@ -1,27 +1,19 @@
-<div align="center">
 # 📄<br>Hello.
-</div>
 
-## About me
+Pode me chamar de Gabriel
 
-**Software developer for [5hook.cc](https://5hook.cc).**
+Crio conteúdo sobre programação, sou desenvolvedor back-end e amo animes.
 
-be kind and everyone will be kind to you.
+Atualmente estudo programação para ampliar meu conhecimento, mas frequentemente estudo sobre psicologia, finanças e diversos outros assuntos. 
 
-## Statistics
+## Meios de contato:
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=int3rnetbxby&left_color=red&right_color=purple) 
+- [Discord User](https://discord.com/users/958997851541733446) (Username: @nozkel)
+- [Instagram](https://instagram.com/nozzkel)
+- [X/Twitter](https://x.com/nozzkel)
+- [Telegram](https://t.me/nozkel)
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=int3rnetbxby&hide_progress=true&border_color=000&bg_color=fff)
+## Redes sociais:
 
-## My socials
-
-- [Biolink](https://feds.lol/int3rnetbxby)
-- [Instagram](https://instagram.com/vassilievxx)
-
-## Ways to contact me:
-
-- [Discord Server](https://discord.gg/aqJRZpbBXk) (5hook.cc server)
-- [Discord User](https://discord.com/users/803685393241210900) (Username: @int3rnetbxby)
-- [Instagram](https://instagram.com/vassilievxx)
-- [Telegram](https://t.me/int3rnetbxby)
+- [Youtube](https://youtube.com/@nozkel)
+- [Discord Server](https://discord.gg/cwFJJHuBts)
