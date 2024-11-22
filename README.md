@@ -2,7 +2,7 @@
 
 Pode me chamar de Gabriel.
 
-Crio conteúdo sobre programação, sou desenvolvedor back-end e amo animes.
+Crio conteúdo sobre programação e desenvolvimento pessoal, sou desenvolvedor back-end e amo animes.
 
 Atualmente estudo programação para ampliar meu conhecimento, mas frequentemente estudo sobre psicologia, finanças e diversos outros assuntos. 
 
@@ -13,7 +13,7 @@ Atualmente estudo programação para ampliar meu conhecimento, mas frequentement
 
 ## Meu conteúdo:
 
-- [Youtube](https://youtube.com/@nozkel)
-- [Discord Server](https://discord.gg/cwFJJHuBts)
+- [YouTube](https://youtube.com/@nozkel)
+- [TikTok](https://tiktok.com/@nozzkel)
 
-***** Caso meu conteúdo tenha sido visto de alguma plataforma não listada aqui, **não sou eu**.
+<sup>Caso meu conteúdo tenha sido visto de alguma plataforma não listada aqui, **não sou eu**.<sup>
