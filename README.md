@@ -8,7 +8,7 @@ Atualmente estudo programação para ampliar meu conhecimento, mas frequentement
 
 ## Meios de contato:
 
-- [Linktree](https://linktr.ee/nozkel)
+- [Bio Link](https://bio.link/nozkel)
 - [E-Mail](mailto://nozkel@proton.me)
 
 ## Meu conteúdo:
