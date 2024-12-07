@@ -7,7 +7,7 @@ Estudo programação desde meus 10 anos de idade, sou entusiasta de desenvolvime
 Atualmente estudo programação para ampliar meu conhecimento, mas frequentemente estudo sobre psicologia, finanças e diversos outros assuntos. 
 
 ## Meios de contato:
-- [E-Mail](nozkel@proton.me)
+- [E-Mail](mailto:nozkel@proton.me)
 
 ## Redes Sociais:
 - [Instagram](https://instagram.com/nozzkel)
