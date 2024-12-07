@@ -2,18 +2,14 @@
 
 Pode me chamar de Gabriel.
 
-Crio conteúdo sobre programação e desenvolvimento pessoal, sou desenvolvedor back-end e amo animes.
+Estudo programação desde meus 10 anos de idade, sou entusiasta de desenvolvimento pessoal, desenvolvedor back-end e amo animes.
 
 Atualmente estudo programação para ampliar meu conhecimento, mas frequentemente estudo sobre psicologia, finanças e diversos outros assuntos. 
 
 ## Meios de contato:
+- [E-Mail](mailto://nozkel@proton.me) * Alt: nozkel@proton.me
 
-- [Bio Link](https://bio.link/nozkel)
-- [E-Mail](mailto://nozkel@proton.me)
+## Redes Sociais:
+- [Instagram](https://instagram.com/nozzkel)
 
-## Meu conteúdo:
-
-- [YouTube](https://youtube.com/@nozkel)
-- [TikTok](https://tiktok.com/@nozzkel)
-
-<sup>Caso meu conteúdo tenha sido visto de alguma plataforma não listada aqui, **não sou eu**.<sup>
+<sup>Minhas redes sociais **não** estão disponíveis para contato profissional, por favor, contate meu e-mail para fins profissionais.<sup>
