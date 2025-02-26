@@ -1,13 +1,13 @@
 # 📄 Howdy!
 
-Pode me chamar de Gabriel.
+Pode me chamar de Gabriel!
 
-Estudo programação desde meus 10 anos de idade, sou entusiasta em desenvolvimento pessoal e psicologia, desenvolvedor back-end e amo animes.
+Estudo programação desde 10 anos de idade, sou entusiasta em desenvolvimento pessoal e psicologia, desenvolvedor back-end e amo animes.
 
 Atualmente estudo programação para ampliar meu conhecimento, mas frequentemente estudo sobre saúde mental, finanças e diversos outros assuntos. 
 
 ## Meios de contato:
-- [E-Mail](mailto:nozkel@proton.me)
+- [E-Mail](mailto:nozkel@duck.com)
 
 ## Redes Sociais:
 - [Instagram](https://instagram.com/nozzkel)
